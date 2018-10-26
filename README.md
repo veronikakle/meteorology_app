@@ -9,5 +9,5 @@ podstatný jsou zejména synoptický předpovědi, ty mají spolehlivý....a pak
 *bergfex.com* 
 zejména na Alpy, je tam toho hromada, nevím od koho to tahají, spolehlivost je všelijaká, nicméně sbírají mraky dat z meteostanic na vrcholech, spousta webek, údajů o sněhu a tak
 
-*mountain-forecast.com *
+*mountain-forecast.com*
 kde třeba zadáš vrchol a dostaneš předpověď podle nadm. výšky apod., není to ultraspolehlivý, ale těch dat je tam hodně....ze zkušenosti se vyplatí zejména sledovat rychlosti větru
