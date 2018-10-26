@@ -11,3 +11,6 @@ zejména na Alpy, je tam toho hromada, nevím od koho to tahají, spolehlivost j
 
 *mountain-forecast.com*
 kde třeba zadáš vrchol a dostaneš předpověď podle nadm. výšky apod., není to ultraspolehlivý, ale těch dat je tam hodně....ze zkušenosti se vyplatí zejména sledovat rychlosti větru
+
+*yr.no*
+https://www.yr.no/place/Italy/Trentino_and_South-Tirol/Sarche_di_Calavino/forecast.xml
